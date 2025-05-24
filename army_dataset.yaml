@@ -1,5 +1,5 @@
-train: /content/cartridge_case/images/train/ 
-val: /content/cartridge_case/images/train/
+train: /content/gdrive/MyDrive/catridge_case_dataset/images/train/
+val: /content/gdrive/MyDrive/catridge_case_dataset/images/train
 
 # number of classes
 nc: 1
