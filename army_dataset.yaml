@@ -1,0 +1,7 @@
+train: /content/cartridge_case/images/train/ 
+val: /content/cartridge_case/images/train/
+
+# number of classes
+nc: 1
+# class names
+names: ['cartridge case']
