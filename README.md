@@ -21,21 +21,17 @@
 # 성능
 ### 1. 흙 먼지 속에서(+ 화질이 좋지 않은 상황) 탄피를 얼마나 잘 찾아내는가 실험
 <br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/06fdf030-8d92-470e-99d6-563f428b0567" width="400"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/76aaefd2-156e-4419-ac65-3e62bbd643eb" width="400"/>
-</p>
+
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/06fdf030-8d92-470e-99d6-563f428b0567" width="400"><br>
-      <sub>모델 적용 전.</sub>
+      <span style="font-size: 12px; color: gray;">예측 전</span>
     </td>
     <td style="width: 40px;"></td> <!-- 이미지 사이 간격 -->
     <td align="center">
       <img src="https://github.com/user-attachments/assets/76aaefd2-156e-4419-ac65-3e62bbd643eb" width="400"><br>
-      <sub>모델 적용 후.</sub>
+      <span style="font-size: 12px; color: gray;">예측 후</span>
     </td>
   </tr>
 </table>
