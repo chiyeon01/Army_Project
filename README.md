@@ -1,6 +1,7 @@
 # Army_Project
-This is  project that finds cartridge case's position.
-
+# 프로젝트 소개
+# 계기
+# 결과
 <p align="center">
   <img src="https://github.com/user-attachments/assets/06fdf030-8d92-470e-99d6-563f428b0567" width="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
