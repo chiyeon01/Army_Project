@@ -38,3 +38,5 @@
 
 <br><br>
 ### 2. 빠른 영상에서 얼마나 탄피를 잘 따라가는가?
+![pred_video2 (5) - Trim](https://github.com/user-attachments/assets/f797aebe-abd7-4e3c-83bc-68d216be5e88)
+
